@@ -1,4 +1,4 @@
-# Hi there, I'm Jacob Przybyłku 👋
+# Hi there, I'm Jakub Przybylski 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=przybylku&color=blue)
 
