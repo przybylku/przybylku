@@ -1,39 +1,88 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=Jakub%20Przybylski&fontSize=36&fontAlignY=35&animation=fadeIn&desc=Go%20%7C%20Python%20%7C%20self-hosted%20tools%20%7C%20AI%20tinkering&descAlignY=60&descAlign=62)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Jakub Przybylski — building small, fast and self-hosted software" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&width=440&lines=Building+CLI+tools+in+Go;Self-hosting+everything;Tinkering+with+AI;Writing+at+encodeo.pl)](https://git.io/typing-svg)
+<br>
+
+[![Website](https://img.shields.io/badge/encodeo.pl-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://encodeo.pl)
+[![X](https://img.shields.io/badge/@jacobbuilds__-18181B?style=flat-square&logo=x&logoColor=white)](https://x.com/jacobbuilds_)
+[![Location](https://img.shields.io/badge/Swarz%C4%99dz,_Poland-18181B?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Swarz%C4%99dz)
 
 </div>
 
+## Hello, I'm Jakub.
 
-## 🛠 Tech I use
+I build **small, fast tools that give people control back** — from terminal apps and AI-powered utilities to self-hosted infrastructure. I like software that is easy to run, pleasant to use and does one thing exceptionally well.
 
-[![Skills](https://skillicons.dev/icons?i=go,py,ts,js,react,nextjs,tailwind,docker,postgres,mongodb,git,linux,neovim,lua,cloudflare)](https://skillicons.dev)
+```go
+focus := []string{"developer tools", "self-hosting", "local-first AI"}
+philosophy := "ship useful things, keep the stack honest"
+```
 
-## 📊 Stats
+## Selected builds
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=przybylku&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=przybylku&layout=compact&theme=tokyonight&hide=html,css" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=przybylku&theme=tokyonight" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/przybylku/Gantry">Gantry ↗</a></h3>
+      <p>A lightweight, self-hosted Vercel alternative. One binary, Docker-based deployments, zero platform overhead.</p>
+      <p><code>Go</code> <code>Docker</code> <code>Self-hosted</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/przybylku/openbattery">OpenBattery ↗</a></h3>
+      <p>A beautiful, responsive macOS battery monitor that lives exactly where developers work: the terminal.</p>
+      <p><code>Go</code> <code>macOS</code> <code>CLI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/przybylku/openfinance">OpenFinance ↗</a></h3>
+      <p>An AI-powered finance tool for turning personal financial data into clear, useful insights.</p>
+      <p><code>Go</code> <code>AI</code> <code>Finance</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/przybylku/askshell">AskShell ↗</a></h3>
+      <p>An open-source, cross-platform CLI that brings AI answers and command-line help straight into your shell.</p>
+      <p><code>Go</code> <code>AI</code> <code>Developer tools</code></p>
+    </td>
+  </tr>
+</table>
+
+## Toolbox
+
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=white">
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-18181B?style=flat-square&logo=neovim&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-18181B?style=flat-square&logo=cloudflare&logoColor=white">
 </p>
 
-## 🐍 Contribution snake
+## What I'm into right now
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/przybylku/przybylku/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/przybylku/przybylku/output/github-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/przybylku/przybylku/output/github-snake.svg">
-</picture>
+- Building focused products in **Go** with tiny operational footprints.
+- Exploring **AI that improves real workflows**, not AI added for decoration.
+- Making self-hosting feel less like infrastructure work and more like using a product.
+- Sharing practical notes and experiments at **[encodeo.pl](https://encodeo.pl)**.
 
-## 🏆 Trophies
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=przybylku&theme=tokyonight&row=1&column=6&margin-w=8)](https://github.com/przybylku)
+<div align="center">
 
-## 🔗 Contact
+### Have an interesting idea?
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jacobbuilds_)
-[![Website](https://img.shields.io/badge/encodeo.pl-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://encodeo.pl)
+I'm always happy to talk about developer tools, self-hosting and ambitious little products.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-%E2%86%92-18181B?style=flat-square)](https://x.com/jacobbuilds_)
+
+<sub><code>while (true) { learn(); build(); ship(); }</code></sub>
+
+</div>

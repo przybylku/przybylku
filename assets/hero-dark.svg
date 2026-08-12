@@ -1,0 +1,31 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jakub Przybylski</title>
+  <desc id="desc">Building focused software with Go, Python and AI</desc>
+
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="#0C0C0E" stroke="#27272A" stroke-width="2"/>
+
+  <g transform="translate(72 72)">
+    <rect width="176" height="176" rx="12" fill="#111113" stroke="#3F3F46"/>
+    <path d="M20 1H156" stroke="#8AA399"/>
+    <text x="88" y="107" text-anchor="middle" fill="#FAFAFA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="52" font-weight="700">JP</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <circle cx="310" cy="76" r="5" fill="#8AA399"/>
+    <text x="326" y="82" fill="#A1A1AA" font-size="14" letter-spacing="1.4">AVAILABLE FOR INTERESTING IDEAS</text>
+  </g>
+
+  <text x="304" y="157" fill="#FAFAFA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Jakub Przybylski</text>
+  <text x="307" y="202" fill="#A1A1AA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="22">I build small, fast and self-hosted software.</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="0.8">
+    <text x="307" y="252" fill="#FAFAFA">GO</text>
+    <text x="345" y="252" fill="#52525B">/</text>
+    <text x="364" y="252" fill="#FAFAFA">PYTHON</text>
+    <text x="431" y="252" fill="#52525B">/</text>
+    <text x="450" y="252" fill="#FAFAFA">AI</text>
+    <text x="474" y="252" fill="#52525B">/</text>
+    <text x="493" y="252" fill="#FAFAFA">DEVELOPER TOOLS</text>
+  </g>
+
+</svg>
